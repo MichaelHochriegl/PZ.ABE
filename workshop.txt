@@ -1,0 +1,8 @@
+version=1
+title=ABE - Advanced Building Environment
+description=ABE is a framework-like system to enhance the building mechanic in PZ.
+description=
+description=This mod alone does only work as a base and does not provide actual gameplay changes.
+description=Other mods can hook into it to provide a much richer building experience.
+tags=
+visibility=public
